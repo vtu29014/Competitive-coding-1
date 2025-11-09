@@ -73,3 +73,94 @@ OUTPUT:
 Cppbuzz
 
 OUTPUT: 25
+Cppbuzz
+
+Cppbuzz
+
+cppbuzz
+
+cppbuzz
+
+4. What is output of below program?
+
+int main()
+
+{
+
+int i,j,k.count;
+
+count=0;
+
+for(i=0;i<5;i++)
+
+{
+
+{
+
+}
+
+}
+
+for(j=0;j<5;j++)
+
+count++;
+
+printf("%d",count);
+
+return 0;
+
+}
+
+5. What is output of below program?
+
+int main()
+
+{
+
+int i,j;
+
+for(i=0,j=0;i<5;i++)
+
+printf("%d%d--")
+
+}
+
+}
+
+return 0;
+
+6. What is output of below program?
+
+int main()
+
+{
+
+int i;
+
+for(i=0; i<5; ++i++) {
+
+} printf("Hello");
+
+return 0;
+
+} 7. What is the output of below program?
+
+int main()
+
+{
+
+int i;
+
+for(i = 0,i<5,i++) {
+
+OUTPUT: 25
+
+OUTPUT:
+
+00-10-20-30-40--
+
+{
+
+ERROR: invalid increment operand
+
+printf("Hello");
