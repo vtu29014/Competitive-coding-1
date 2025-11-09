@@ -1,0 +1,45 @@
+Task2:Conceptual Questions in Programming
+
+1. What is the value assigned to the variable X if b is 7.
+
+X=7>8? b << 3/7 >4?7 1; b;
+
+What will be printed by the code below?
+
+int main() { printf("Hi
+
+Friends"+3); return 0'}
+
+2. What will be printed as the result of the operation below?
+
+int main() { char
+
+a = 5, b = 9
+
+printf("%d\n",a&b);
+
+return 0;
+
+3. What is the value assigned to the variable z
+
+int main(void)
+
+int a = 0 b; if(!a) { b
+
+la; if(b) a =!b; }
+
+printf("%d %d\n",a,b);
+
+return 0;
+
+5. What will be printed as the result of the operation below?
+
+int main() {
+
+int x = 5 y = - 11 a2, b = 8 int
+
+zx++y*b/a; printf("%d",z); return 0; }
+
+6. What will be printed as the result of the operation below?
+
+int main() { char b = 9 a = 5 printf("%d" b >>1, return 0; }
