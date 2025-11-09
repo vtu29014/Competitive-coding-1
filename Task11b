@@ -1,0 +1,27 @@
+Program:
+
+#include <stdio.h>
+
+int fibonacci(int n) {
+
+if (n <= 1) {
+
+return n;
+
+return fibonacci(n-1) + fibonacci(n-2);
+
+int main(){
+
+int n = 10; // example number
+
+printf("The %dth Fibonacci number is %d\n", n, fibonacci(n));
+
+return 0;
+
+OUTPUT:
+
+Enter the number of elements: 15
+
+011235 8 13 21 34 55 89 144 233 377
+
+Result: Thus the Program is executed and verified successfully.
